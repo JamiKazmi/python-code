@@ -129,3 +129,6 @@ print(a / b)
 """
 print(np.vstack((a, b)))
 print(np.hstack((a, b)))
+
+# convert 2d array into 1d
+print(a.ravel())
