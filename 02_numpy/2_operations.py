@@ -59,3 +59,73 @@ print(my_array.max())
 
 # min() returns the minimum value in array
 print(my_array.min())
+
+# sum() calculates the sum of array
+print(second_array.sum())
+# axis attribute for rows and columns
+# axis=0 means column wise sum
+print(second_array.sum(axis=0))
+# axis=1 means row wise sum
+print(second_array.sum(axis=1))
+
+# sqrt() square root of each element in np array
+print(np.sqrt(second_array))
+
+# std() standard deviation
+print(np.std(second_array))
+
+"""
+    mathematical operations on arrays
+    plus +, minus -, multiplication *, division /
+    these operations performed like on matrix
+    # in simple lists the + will concatenate each other
+    # in numpy arrays + will add elements
+"""
+a = np.array([
+    (1, 2, 3),
+    (3, 4, 5)
+])
+b = np.array([
+    (4, 5, 6),
+    (6, 7, 8)
+])
+
+# plus + it will add corresponding elements
+"""
+    its like
+    [1 2 3]  +  [4 5 6]
+    [3 4 5]     [5 6 7]
+"""
+print(a + b)
+
+# minus - it will subtract corresponding elements
+"""
+    its like
+    [1 2 3]  -  [4 5 6]
+    [3 4 5]     [5 6 7]
+"""
+print(a - b)
+
+# multiplication * it will multiply each element
+"""
+    its like
+    [1 2 3]  *  [4 5 6]
+    [3 4 5]     [5 6 7]
+"""
+print(a * b)
+
+# division / it will divide each element
+"""
+    its like
+    [1 2 3]  /  [4 5 6]
+    [3 4 5]     [5 6 7]
+"""
+print(a / b)
+
+"""
+    for np arrays concatenation there are some operations
+    which are vertical stack and horizontal stack
+    the box and box or box on box
+"""
+print(np.vstack((a, b)))
+print(np.hstack((a, b)))

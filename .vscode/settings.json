@@ -4,7 +4,9 @@
     "python.linting.enabled": true,
     "cSpell.words": [
         "dtype",
+        "hstack",
         "ndim",
-        "strptime"
+        "strptime",
+        "vstack"
     ]
 }
