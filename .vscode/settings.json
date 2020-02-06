@@ -3,6 +3,7 @@
     "python.linting.pycodestyleEnabled": true,
     "python.linting.enabled": true,
     "cSpell.words": [
+        "dtype",
         "ndim",
         "strptime"
     ]
