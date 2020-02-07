@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38f3ea8e-57ee-4901-8125-dbdd09121be4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3_scipy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_pandas/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +53,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="15" width="1132" height="708" key="SettingsEditor" timestamp="1581083788175">
+    <state x="137" y="15" width="1132" height="708" key="SettingsEditor" timestamp="1581100098617">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="15" width="1132" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581083788175" />
+    <state x="137" y="15" width="1132" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581100098617" />
     <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1581068793075">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
