@@ -1,5 +1,3 @@
-import sys
-import time
 import numpy as np
 
 my_array = np.array([1, 2, 3])
@@ -15,7 +13,7 @@ print(my_array.ndim)
 # returns the byte size
 print(my_array.itemsize)
 
-# returns datatype
+# returns data type
 print(my_array.dtype)
 
 # return size of array

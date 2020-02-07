@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38f3ea8e-57ee-4901-8125-dbdd09121be4" name="Default Changelist" comment="" />
+    <list default="true" id="38f3ea8e-57ee-4901-8125-dbdd09121be4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Silence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_matplotlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_time/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_numpy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyPrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyPrograms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_time/1_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_time/2_datetime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_time/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_time/notes/1time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_time/notes/2structClass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_time/notes/3datetime.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/1_numpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/2_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/notes/1numpy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/notes/2lists.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/notes/3operations.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/notes/4operations.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/notes/5operations.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/notes/6operations.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/notes/7operations.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/notes/8operations.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_numpy/notes/9operations.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +41,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XL41qVgpprrxpRzuYCEqLDu9WO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,14 +73,17 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="7" key="SettingsEditor" timestamp="1580812305730">
+    <state x="137" y="15" width="1132" height="708" key="SettingsEditor" timestamp="1581068939784">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580812305730" />
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1580811861361">
+    <state x="137" y="15" width="1132" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581068939784" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1581068793075">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580811861361" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581068793075" />
   </component>
 </project>
