@@ -6,6 +6,7 @@
         "cosdg",
         "dtype",
         "fftpack",
+        "ggplot",
         "hstack",
         "ifft",
         "inplace",
@@ -13,9 +14,12 @@
         "ndim",
         "openpyxl",
         "reindex",
+        "rwidth",
         "sindg",
         "strptime",
         "vstack",
-        "xlsx"
+        "xlabel",
+        "xlsx",
+        "ylabel"
     ]
 }
