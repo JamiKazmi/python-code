@@ -11,8 +11,11 @@
         "inplace",
         "interp",
         "ndim",
+        "openpyxl",
+        "reindex",
         "sindg",
         "strptime",
-        "vstack"
+        "vstack",
+        "xlsx"
     ]
 }

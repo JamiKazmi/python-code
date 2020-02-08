@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38f3ea8e-57ee-4901-8125-dbdd09121be4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4_pandas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_pandas/5_concatination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_pandas/6_data_murging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_pandas/files/sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_pandas/files/sample.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_pydoop/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/et_xmlfile-1.0.1-py3.7.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/et_xmlfile-1.0.1-py3.7.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/et_xmlfile-1.0.1-py3.7.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/et_xmlfile-1.0.1-py3.7.egg-info/installed-files.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/et_xmlfile-1.0.1-py3.7.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/et_xmlfile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/et_xmlfile/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/et_xmlfile/tests/common_imports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/et_xmlfile/tests/helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/et_xmlfile/tests/test_incremental_xmlfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/et_xmlfile/xmlfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jdcal-1.4.1.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jdcal-1.4.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jdcal-1.4.1.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jdcal-1.4.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jdcal-1.4.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jdcal-1.4.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jdcal-1.4.1.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jdcal-1.4.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/jdcal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_pandas/4_changing_header.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_pandas/4_changing_header.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +80,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="15" width="1132" height="708" key="SettingsEditor" timestamp="1581100098617">
+    <state x="275" y="23" key="#Notifications" timestamp="1581154236766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="15" width="1132" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581100098617" />
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1581154236766" />
+    <state x="137" y="15" width="1132" height="708" key="SettingsEditor" timestamp="1581158014815">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="15" width="1132" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581158014815" />
     <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1581068793075">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
